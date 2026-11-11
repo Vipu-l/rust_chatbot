@@ -1,0 +1,15 @@
+{
+    "contents":  [
+                     {
+                         "parts":  [
+                                       {
+                                           "text":  "Reply with only the word HELLO."
+                                       }
+                                   ]
+                     }
+                 ],
+    "generationConfig":  {
+                             "maxOutputTokens":  128,
+                             "temperature":  0.2
+                         }
+}
